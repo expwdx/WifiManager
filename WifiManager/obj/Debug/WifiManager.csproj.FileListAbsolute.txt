@@ -1,0 +1,2 @@
+c:\users\marco\documents\visual studio 2015\Projects\WifiManager\WifiManager\bin\Debug\WifiManager.exe.config
+C:\Users\Administrator\Desktop\WifiManager\WifiManager\bin\Debug\WifiManager.exe.config
